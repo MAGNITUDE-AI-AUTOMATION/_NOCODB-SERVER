@@ -1,0 +1,27 @@
+# Environment files with secrets
+.env
+
+# Backup files
+*.sql
+*.dump
+backup/
+backups/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
